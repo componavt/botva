@@ -1,2 +1,2 @@
 # botva
-bot Wikidata tutorial (in Russian)
+Bot Wikidata tutorial (with examples)
