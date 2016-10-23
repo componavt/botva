@@ -1,0 +1,13 @@
+#added 2016-10
+#List of `instances of` "programming language" 
+SELECT ?lang ?langLabel
+WHERE
+{
+    ?lang wdt:P31 wd:Q9143.
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+# But there are Wikidata items without name in English, 
+# i.e. "No label defined"
+
+#https://query.wikidata.org/#%23added%20before%202016-10%0A%23Demonstrates%20%22unknown%20value%22%20handling%0ASELECT%20%3Flang%20%3FlangLabel%0AWHERE%0A%7B%0A%09%3Flang%20wdt%3AP31%20wd%3AQ9143.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%7D%0A%7D
+# 731 Results in 807 ms

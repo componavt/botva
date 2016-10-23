@@ -1,0 +1,733 @@
+lang,langLabel
+http://www.wikidata.org/entity/Q251,Java
+http://www.wikidata.org/entity/Q2005,JavaScript
+http://www.wikidata.org/entity/Q2378,Visual Basic
+http://www.wikidata.org/entity/Q2407,C++
+http://www.wikidata.org/entity/Q5301,TeX
+http://www.wikidata.org/entity/Q15777,C
+http://www.wikidata.org/entity/Q28865,Python
+http://www.wikidata.org/entity/Q34010,Haskell
+http://www.wikidata.org/entity/Q34280,Plankalkül
+http://www.wikidata.org/entity/Q37227,Go
+http://www.wikidata.org/entity/Q41574,PL/SQL
+http://www.wikidata.org/entity/Q42478,Perl
+http://www.wikidata.org/entity/Q42979,BASIC
+http://www.wikidata.org/entity/Q47607,SQL
+http://www.wikidata.org/entity/Q50077,Visual Basic .NET
+http://www.wikidata.org/entity/Q51798,Clojure
+http://www.wikidata.org/entity/Q54871,SPARQL
+http://www.wikidata.org/entity/Q58329,HyperTalk
+http://www.wikidata.org/entity/Q81294,Mathematica
+http://www.wikidata.org/entity/Q81348,C--
+http://www.wikidata.org/entity/Q81571,Pascal
+http://www.wikidata.org/entity/Q83303,Fortran
+http://www.wikidata.org/entity/Q131140,COBOL
+http://www.wikidata.org/entity/Q132874,Lisp
+http://www.wikidata.org/entity/Q143419,Blitz BASIC
+http://www.wikidata.org/entity/Q163468,Prolog
+http://www.wikidata.org/entity/Q165372,CLIPS
+http://www.wikidata.org/entity/Q165436,assembly language
+http://www.wikidata.org/entity/Q174841,IBM BASIC
+http://www.wikidata.org/entity/Q187560,Scheme
+http://www.wikidata.org/entity/Q188436,ALGOL
+http://www.wikidata.org/entity/Q188531,Objective-C
+http://www.wikidata.org/entity/Q195929,FreeBASIC
+http://www.wikidata.org/entity/Q201436,Logo
+http://www.wikidata.org/entity/Q204693,Karel
+http://www.wikidata.org/entity/Q206040,Mercury
+http://www.wikidata.org/entity/Q206904,R
+http://www.wikidata.org/entity/Q207316,Lua
+http://www.wikidata.org/entity/Q212569,Simula
+http://www.wikidata.org/entity/Q212587,OCaml
+http://www.wikidata.org/entity/Q213970,AWK
+http://www.wikidata.org/entity/Q218170,PostScript
+http://www.wikidata.org/entity/Q223433,PL/I
+http://www.wikidata.org/entity/Q234657,ActionScript
+http://www.wikidata.org/entity/Q235086,Smalltalk
+http://www.wikidata.org/entity/Q239406,Standard ML of New Jersey
+http://www.wikidata.org/entity/Q252340,Common Lisp Object System
+http://www.wikidata.org/entity/Q258778,Extensible Application Markup Language
+http://www.wikidata.org/entity/Q259138,ECMAScript
+http://www.wikidata.org/entity/Q262003,Newsqueak
+http://www.wikidata.org/entity/Q263490,AS/400 Control Language
+http://www.wikidata.org/entity/Q263544,Common Intermediate Language
+http://www.wikidata.org/entity/Q275131,Scratch
+http://www.wikidata.org/entity/Q275472,Forth
+http://www.wikidata.org/entity/Q277713,A-0 System
+http://www.wikidata.org/entity/Q285886,Haxe
+http://www.wikidata.org/entity/Q295232,AMOS
+http://www.wikidata.org/entity/Q295250,AMPL
+http://www.wikidata.org/entity/Q296187,APL
+http://www.wikidata.org/entity/Q296704,ARLA
+http://www.wikidata.org/entity/Q300841,MIRC scripting language
+http://www.wikidata.org/entity/Q300897,Bc (programming language)
+http://www.wikidata.org/entity/Q319268,D
+http://www.wikidata.org/entity/Q334879,Erlang
+http://www.wikidata.org/entity/Q337272,Commodore BASIC
+http://www.wikidata.org/entity/Q337922,CORC
+http://www.wikidata.org/entity/Q343587,Action!
+http://www.wikidata.org/entity/Q344108,Active Oberon
+http://www.wikidata.org/entity/Q355968,adenine
+http://www.wikidata.org/entity/Q368880,XL
+http://www.wikidata.org/entity/Q369096,Pharo
+http://www.wikidata.org/entity/Q369244,VisSim
+http://www.wikidata.org/entity/Q375533,Kent Recursive Calculator
+http://www.wikidata.org/entity/Q377986,Clean
+http://www.wikidata.org/entity/Q380523,ABAP
+http://www.wikidata.org/entity/Q381247,QBasic
+http://www.wikidata.org/entity/Q383994,J
+http://www.wikidata.org/entity/Q385325,Modelica
+http://www.wikidata.org/entity/Q389350,Transaction Application Language
+http://www.wikidata.org/entity/Q393768,Agilent VEE
+http://www.wikidata.org/entity/Q446168,SR
+http://www.wikidata.org/entity/Q460584,Scala
+http://www.wikidata.org/entity/Q464622,Lustre
+http://www.wikidata.org/entity/Q471181,Amiga E
+http://www.wikidata.org/entity/Q473201,Turbo Pascal
+http://www.wikidata.org/entity/Q477690,CUDA
+http://www.wikidata.org/entity/Q490481,Turing
+http://www.wikidata.org/entity/Q504453,Groovy
+http://www.wikidata.org/entity/Q519163,Geometric Description Language
+http://www.wikidata.org/entity/Q522041,SNOBOL
+http://www.wikidata.org/entity/Q526649,IBM RPG II
+http://www.wikidata.org/entity/Q536471,NATURAL
+http://www.wikidata.org/entity/Q539268,Inform
+http://www.wikidata.org/entity/Q544927,Limbo
+http://www.wikidata.org/entity/Q575650,Rust
+http://www.wikidata.org/entity/Q579880,CLIST
+http://www.wikidata.org/entity/Q580448,Falcon
+http://www.wikidata.org/entity/Q597330,Standard ML
+http://www.wikidata.org/entity/Q602012,Sather
+http://www.wikidata.org/entity/Q606550,Simulink
+http://www.wikidata.org/entity/Q608565,Cobra
+http://www.wikidata.org/entity/Q609180,Quartz Composer
+http://www.wikidata.org/entity/Q609804,JavaFX Script
+http://www.wikidata.org/entity/Q620464,G-code
+http://www.wikidata.org/entity/Q621618,ATS
+http://www.wikidata.org/entity/Q627600,Visual Prolog
+http://www.wikidata.org/entity/Q642207,CHILL
+http://www.wikidata.org/entity/Q648619,F♯
+http://www.wikidata.org/entity/Q667290,HAL/S
+http://www.wikidata.org/entity/Q667812,ATLAS Transformation Language
+http://www.wikidata.org/entity/Q672307,NetLogo
+http://www.wikidata.org/entity/Q681360,OpenCL
+http://www.wikidata.org/entity/Q685820,REXX
+http://www.wikidata.org/entity/Q732089,Eiffel
+http://www.wikidata.org/entity/Q753868,Visual FoxPro
+http://www.wikidata.org/entity/Q756175,Io
+http://www.wikidata.org/entity/Q762464,Squeak
+http://www.wikidata.org/entity/Q767018,Microsoft Small Basic
+http://www.wikidata.org/entity/Q775159,CLU
+http://www.wikidata.org/entity/Q776372,Information Processing Language
+http://www.wikidata.org/entity/Q777358,Modula-2
+http://www.wikidata.org/entity/Q780803,Miranda
+http://www.wikidata.org/entity/Q782397,AutoLISP
+http://www.wikidata.org/entity/Q787227,Automatically Programmed Tools
+http://www.wikidata.org/entity/Q797302,B
+http://www.wikidata.org/entity/Q810009,BCPL
+http://www.wikidata.org/entity/Q820978,Script.NET
+http://www.wikidata.org/entity/Q827233,NewLISP
+http://www.wikidata.org/entity/Q838062,Occam
+http://www.wikidata.org/entity/Q840410,PowerShell
+http://www.wikidata.org/entity/Q840543,IBM RPG
+http://www.wikidata.org/entity/Q840761,MPD
+http://www.wikidata.org/entity/Q849146,Common Lisp
+http://www.wikidata.org/entity/Q850484,ChucK
+http://www.wikidata.org/entity/Q850661,XQuery
+http://www.wikidata.org/entity/Q860654,ML
+http://www.wikidata.org/entity/Q890976,ABLE
+http://www.wikidata.org/entity/Q892948,Boo
+http://www.wikidata.org/entity/Q910482,Oxygene
+http://www.wikidata.org/entity/Q924660,WMLScript
+http://www.wikidata.org/entity/Q924737,Interpress
+http://www.wikidata.org/entity/Q929932,GNU Data Language
+http://www.wikidata.org/entity/Q943176,Sing#
+http://www.wikidata.org/entity/Q961543,QML
+http://www.wikidata.org/entity/Q970424,Sawzall
+http://www.wikidata.org/entity/Q972868,Accent
+http://www.wikidata.org/entity/Q974083,JOSS
+http://www.wikidata.org/entity/Q975594,Cython
+http://www.wikidata.org/entity/Q978185,TypeScript
+http://www.wikidata.org/entity/Q994269,P#
+http://www.wikidata.org/entity/Q1002996,Snap!
+http://www.wikidata.org/entity/Q1022268,C++/CLI
+http://www.wikidata.org/entity/Q1023991,COMAL
+http://www.wikidata.org/entity/Q1024000,COMIT
+http://www.wikidata.org/entity/Q1040272,Monkey X
+http://www.wikidata.org/entity/Q1042397,Mesa
+http://www.wikidata.org/entity/Q1044290,Etoys
+http://www.wikidata.org/entity/Q1049708,A#
+http://www.wikidata.org/entity/Q1050629,rc
+http://www.wikidata.org/entity/Q1053535,Processing
+http://www.wikidata.org/entity/Q1057802,ABC
+http://www.wikidata.org/entity/Q1061570,C++11
+http://www.wikidata.org/entity/Q1072180,Synchronized Multimedia Integration Language
+http://www.wikidata.org/entity/Q1094499,ALGOL 58
+http://www.wikidata.org/entity/Q1106293,Genie
+http://www.wikidata.org/entity/Q1106819,CoffeeScript
+http://www.wikidata.org/entity/Q1118153,Caml
+http://www.wikidata.org/entity/Q1121719,Component Pascal
+http://www.wikidata.org/entity/Q1136926,Alice
+http://www.wikidata.org/entity/Q1138939,Vala
+http://www.wikidata.org/entity/Q1141484,Web
+http://www.wikidata.org/entity/Q1144631,Curl
+http://www.wikidata.org/entity/Q1144729,Borland Turbo C
+http://www.wikidata.org/entity/Q1148531,Microsoft Visual C#
+http://www.wikidata.org/entity/Q1150963,Distributed Application Specification Language
+http://www.wikidata.org/entity/Q1151190,Cω
+http://www.wikidata.org/entity/Q1151257,C99
+http://www.wikidata.org/entity/Q1156474,Icon
+http://www.wikidata.org/entity/Q1160312,J#
+http://www.wikidata.org/entity/Q1172264,Datalog
+http://www.wikidata.org/entity/Q1186348,Seed7
+http://www.wikidata.org/entity/Q1191442,UnrealScript
+http://www.wikidata.org/entity/Q1196623,GNU Pascal
+http://www.wikidata.org/entity/Q1200182,Squirrel
+http://www.wikidata.org/entity/Q1201810,Microsoft BASIC
+http://www.wikidata.org/entity/Q1208217,Oz
+http://www.wikidata.org/entity/Q1209759,ALGOL 60
+http://www.wikidata.org/entity/Q1254148,Racket
+http://www.wikidata.org/entity/Q1258116,Graphics Layout Engine
+http://www.wikidata.org/entity/Q1265107,Joy
+http://www.wikidata.org/entity/Q1265836,MetaPost
+http://www.wikidata.org/entity/Q1266004,F-logic
+http://www.wikidata.org/entity/Q1268744,Dylan
+http://www.wikidata.org/entity/Q1275955,Executive Systems Problem Oriented Language
+http://www.wikidata.org/entity/Q1277803,JOVIAL
+http://www.wikidata.org/entity/Q1283865,S
+http://www.wikidata.org/entity/Q1306585,Turbo Basic
+http://www.wikidata.org/entity/Q1323362,Oberon
+http://www.wikidata.org/entity/Q1334586,Emacs Lisp
+http://www.wikidata.org/entity/Q1335009,Embedded SQL
+http://www.wikidata.org/entity/Q1335388,Alice
+http://www.wikidata.org/entity/Q1359171,REBOL
+http://www.wikidata.org/entity/Q1374139,Euphoria
+http://www.wikidata.org/entity/Q1389173,FLOW-MATIC
+http://www.wikidata.org/entity/Q1389363,Focal
+http://www.wikidata.org/entity/Q1391724,Factor
+http://www.wikidata.org/entity/Q1398550,FAUST
+http://www.wikidata.org/entity/Q1401466,Pure Data
+http://www.wikidata.org/entity/Q1411658,Gofer
+http://www.wikidata.org/entity/Q1411875,Ladder logic
+http://www.wikidata.org/entity/Q1417175,JScript .NET
+http://www.wikidata.org/entity/Q1427564,Flavors
+http://www.wikidata.org/entity/Q1439015,Fortress
+http://www.wikidata.org/entity/Q1457000,METAFONT
+http://www.wikidata.org/entity/Q1461865,Linda
+http://www.wikidata.org/entity/Q1474061,FP
+http://www.wikidata.org/entity/Q1486175,GNU Assembler
+http://www.wikidata.org/entity/Q1533797,ISWIM
+http://www.wikidata.org/entity/Q1537488,M
+http://www.wikidata.org/entity/Q1538458,ALGOL W
+http://www.wikidata.org/entity/Q1540659,GrGen
+http://www.wikidata.org/entity/Q1549370,Aldor
+http://www.wikidata.org/entity/Q1571494,XProc
+http://www.wikidata.org/entity/Q1571870,Hollywood
+http://www.wikidata.org/entity/Q1577753,NewtonScript
+http://www.wikidata.org/entity/Q1609529,Mizar system
+http://www.wikidata.org/entity/Q1665857,Interactive Data Language
+http://www.wikidata.org/entity/Q1700602,Open Programming Language
+http://www.wikidata.org/entity/Q1707206,Max
+http://www.wikidata.org/entity/Q1719128,PL/0
+http://www.wikidata.org/entity/Q1753738,Structured text
+http://www.wikidata.org/entity/Q1775182,Leda
+http://www.wikidata.org/entity/Q1777233,Q1777233
+http://www.wikidata.org/entity/Q1777659,SuperBASIC
+http://www.wikidata.org/entity/Q1783709,Not Quite C
+http://www.wikidata.org/entity/Q1785511,Not eXactly C
+http://www.wikidata.org/entity/Q1798284,LPC
+http://www.wikidata.org/entity/Q1807379,Game Maker Language
+http://www.wikidata.org/entity/Q1852616,X10
+http://www.wikidata.org/entity/Q1859276,XL
+http://www.wikidata.org/entity/Q1864529,Self
+http://www.wikidata.org/entity/Q1881539,Q1881539
+http://www.wikidata.org/entity/Q1882071,MUMPS
+http://www.wikidata.org/entity/Q1882973,Maclisp
+http://www.wikidata.org/entity/Q1895587,Alef
+http://www.wikidata.org/entity/Q1942241,Modula-2+
+http://www.wikidata.org/entity/Q1966202,FOCAL
+http://www.wikidata.org/entity/Q1984753,Nice
+http://www.wikidata.org/entity/Q2005972,JAL
+http://www.wikidata.org/entity/Q2024920,Opal
+http://www.wikidata.org/entity/Q2038042,OttoQL
+http://www.wikidata.org/entity/Q2043979,PEARL
+http://www.wikidata.org/entity/Q2044321,IBM PL/S
+http://www.wikidata.org/entity/Q2044345,PL/pgSQL
+http://www.wikidata.org/entity/Q2052676,Perl 6
+http://www.wikidata.org/entity/Q2063791,SQL:2008
+http://www.wikidata.org/entity/Q2072087,P′′
+http://www.wikidata.org/entity/Q2095090,Unified Parallel C
+http://www.wikidata.org/entity/Q2117267,Q2117267
+http://www.wikidata.org/entity/Q2118858,PureBasic
+http://www.wikidata.org/entity/Q2122062,QuakeC
+http://www.wikidata.org/entity/Q2160963,PL/M
+http://www.wikidata.org/entity/Q2166735,ALGOL 68
+http://www.wikidata.org/entity/Q2204794,SAIL
+http://www.wikidata.org/entity/Q2205923,SETL
+http://www.wikidata.org/entity/Q2210114,SabreTalk
+http://www.wikidata.org/entity/Q2251017,Dartmouth BASIC
+http://www.wikidata.org/entity/Q2259392,Jess
+http://www.wikidata.org/entity/Q2293187,XHarbour
+http://www.wikidata.org/entity/Q2293248,FALSE
+http://www.wikidata.org/entity/Q2293738,Slate
+http://www.wikidata.org/entity/Q2299300,Data Language Interface
+http://www.wikidata.org/entity/Q2299598,SuperCollider
+http://www.wikidata.org/entity/Q2347334,CPL
+http://www.wikidata.org/entity/Q2349274,Planner
+http://www.wikidata.org/entity/Q2357042,Strongtalk
+http://www.wikidata.org/entity/Q2368856,Curry
+http://www.wikidata.org/entity/Q2391267,Mozart Programming System
+http://www.wikidata.org/entity/Q2428476,Modula
+http://www.wikidata.org/entity/Q2438046,Arc
+http://www.wikidata.org/entity/Q2507721,FoxPro
+http://www.wikidata.org/entity/Q2544816,Harbour
+http://www.wikidata.org/entity/Q2560076,Abbreviated Test Language for All Systems
+http://www.wikidata.org/entity/Q2566011,Short Code
+http://www.wikidata.org/entity/Q2569373,Cilk
+http://www.wikidata.org/entity/Q2597563,Q2597563
+http://www.wikidata.org/entity/Q2613697,Julia
+http://www.wikidata.org/entity/Q2618065,IronRuby
+http://www.wikidata.org/entity/Q2626413,Nemerle
+http://www.wikidata.org/entity/Q2626418,Refal
+http://www.wikidata.org/entity/Q2640986,Aleph
+http://www.wikidata.org/entity/Q2641209,Almquist shell
+http://www.wikidata.org/entity/Q2647901,Prova
+http://www.wikidata.org/entity/Q2658244,E
+http://www.wikidata.org/entity/Q2665141,SWI-Prolog
+http://www.wikidata.org/entity/Q2671999,DRAKON
+http://www.wikidata.org/entity/Q2699404,Fantom
+http://www.wikidata.org/entity/Q2722952,Phrogram
+http://www.wikidata.org/entity/Q2783996,COBOL.NET
+http://www.wikidata.org/entity/Q2791660,ObjectPAL
+http://www.wikidata.org/entity/Q2818994,Actor-Based Concurrent Language
+http://www.wikidata.org/entity/Q2861672,Q2861672
+http://www.wikidata.org/entity/Q2868806,Ateji PX
+http://www.wikidata.org/entity/Q2874223,Averest
+http://www.wikidata.org/entity/Q2876705,Chinese BASIC
+http://www.wikidata.org/entity/Q2877155,BLISS
+http://www.wikidata.org/entity/Q2924087,Programming Language for Business
+http://www.wikidata.org/entity/Q2957843,Charity
+http://www.wikidata.org/entity/Q2992227,Concurrent ML
+http://www.wikidata.org/entity/Q3087863,Frink
+http://www.wikidata.org/entity/Q3091025,High Performance Fortran
+http://www.wikidata.org/entity/Q3105355,Gibiane
+http://www.wikidata.org/entity/Q3109515,Go!
+http://www.wikidata.org/entity/Q3140351,Hop
+http://www.wikidata.org/entity/Q3154072,Ioke
+http://www.wikidata.org/entity/Q3154510,IronScheme
+http://www.wikidata.org/entity/Q3155242,ISETL
+http://www.wikidata.org/entity/Q3205992,LEGO
+http://www.wikidata.org/entity/Q3206154,LSE
+http://www.wikidata.org/entity/Q3217187,Red
+http://www.wikidata.org/entity/Q3218363,Lasso
+http://www.wikidata.org/entity/Q3242457,Lisaac
+http://www.wikidata.org/entity/Q3251260,Oberon-2
+http://www.wikidata.org/entity/Q3279945,Unicon
+http://www.wikidata.org/entity/Q3317751,Mocklisp
+http://www.wikidata.org/entity/Q3332038,ZPL
+http://www.wikidata.org/entity/Q3337877,Neko
+http://www.wikidata.org/entity/Q3339196,Next Byte Codes
+http://www.wikidata.org/entity/Q3353033,Opa
+http://www.wikidata.org/entity/Q3362976,2APL
+http://www.wikidata.org/entity/Q3374941,Cilk Plus
+http://www.wikidata.org/entity/Q3400891,PowerShell
+http://www.wikidata.org/entity/Q3408184,Prototype Verification System
+http://www.wikidata.org/entity/Q3408297,ProvideX
+http://www.wikidata.org/entity/Q3411311,Pyrex
+http://www.wikidata.org/entity/Q3412467,Qi
+http://www.wikidata.org/entity/Q3429683,Syntax Definition Formalism
+http://www.wikidata.org/entity/Q3459982,SQL:2011
+http://www.wikidata.org/entity/Q3481158,Fjölnir
+http://www.wikidata.org/entity/Q3493345,SPARK
+http://www.wikidata.org/entity/Q3493421,Spice Lisp
+http://www.wikidata.org/entity/Q3501043,Parser
+http://www.wikidata.org/entity/Q3558930,Maude system
+http://www.wikidata.org/entity/Q3561015,MultiLisp
+http://www.wikidata.org/entity/Q3561750,Lucid
+http://www.wikidata.org/entity/Q3622471,Argus
+http://www.wikidata.org/entity/Q3756259,GRASS
+http://www.wikidata.org/entity/Q3787780,Q3787780
+http://www.wikidata.org/entity/Q3816639,Kotlin
+http://www.wikidata.org/entity/Q3841543,Q3841543
+http://www.wikidata.org/entity/Q3890214,CycL
+http://www.wikidata.org/entity/Q3902685,Pico
+http://www.wikidata.org/entity/Q3924253,Proteus
+http://www.wikidata.org/entity/Q3934000,Rex
+http://www.wikidata.org/entity/Q4021505,XPL
+http://www.wikidata.org/entity/Q4033768,Allegro Common Lisp
+http://www.wikidata.org/entity/Q4035552,C11
+http://www.wikidata.org/entity/Q4036051,Chapel
+http://www.wikidata.org/entity/Q4036419,ColorForth
+http://www.wikidata.org/entity/Q4037222,Dependent ML
+http://www.wikidata.org/entity/Q4040754,Hope
+http://www.wikidata.org/entity/Q4041852,JoCaml
+http://www.wikidata.org/entity/Q4042031,K
+http://www.wikidata.org/entity/Q4043546,Macintosh Common Lisp
+http://www.wikidata.org/entity/Q4047113,Pnuts
+http://www.wikidata.org/entity/Q4048691,SASL
+http://www.wikidata.org/entity/Q4048871,SQL-92
+http://www.wikidata.org/entity/Q4048878,SQL:1999
+http://www.wikidata.org/entity/Q4048881,SQL:2003
+http://www.wikidata.org/entity/Q4050034,StarLogo
+http://www.wikidata.org/entity/Q4050562,TADS
+http://www.wikidata.org/entity/Q4050584,THINK C
+http://www.wikidata.org/entity/Q4053269,X++
+http://www.wikidata.org/entity/Q4057965,Address programming language
+http://www.wikidata.org/entity/Q4117140,Rapira
+http://www.wikidata.org/entity/Q4117844,Coral 66
+http://www.wikidata.org/entity/Q4117854,MAD
+http://www.wikidata.org/entity/Q4117879,SETL2
+http://www.wikidata.org/entity/Q4230857,Concatenative programming language
+http://www.wikidata.org/entity/Q4353865,POSXML
+http://www.wikidata.org/entity/Q4386338,Interlisp
+http://www.wikidata.org/entity/Q4395116,Robic
+http://www.wikidata.org/entity/Q4544975,*Lisp
+http://www.wikidata.org/entity/Q4545417,.QL
+http://www.wikidata.org/entity/Q4636211,3APL
+http://www.wikidata.org/entity/Q4650401,ABSET
+http://www.wikidata.org/entity/Q4650409,ABSYS
+http://www.wikidata.org/entity/Q4650692,ACL2
+http://www.wikidata.org/entity/Q4652452,ALTRAN
+http://www.wikidata.org/entity/Q4652541,AMBIT
+http://www.wikidata.org/entity/Q4653815,ARLOGO
+http://www.wikidata.org/entity/Q4654106,ASCEND
+http://www.wikidata.org/entity/Q4657151,A Graphics Language
+http://www.wikidata.org/entity/Q4669931,Abstract State Machine Language
+http://www.wikidata.org/entity/Q4677478,ActiveVFP
+http://www.wikidata.org/entity/Q4677713,Actor
+http://www.wikidata.org/entity/Q4686801,Advice taker
+http://www.wikidata.org/entity/Q4692056,AgentSpeak
+http://www.wikidata.org/entity/Q4692057,AgentSheets
+http://www.wikidata.org/entity/Q4693571,Agora
+http://www.wikidata.org/entity/Q4733507,Alma-0
+http://www.wikidata.org/entity/Q4734969,Alpha
+http://www.wikidata.org/entity/Q4735267,Alphard
+http://www.wikidata.org/entity/Q4741415,AmbientTalk
+http://www.wikidata.org/entity/Q4750300,Ana
+http://www.wikidata.org/entity/Q4779266,ApeScript
+http://www.wikidata.org/entity/Q4817198,Atom
+http://www.wikidata.org/entity/Q4826226,Autocode
+http://www.wikidata.org/entity/Q4830701,Axum
+http://www.wikidata.org/entity/Q4834591,BANCStar programming language
+http://www.wikidata.org/entity/Q4834661,BASIC 8
+http://www.wikidata.org/entity/Q4835068,BBN LISP
+http://www.wikidata.org/entity/Q4835421,BEFLIX
+http://www.wikidata.org/entity/Q4836789,BUGSYS
+http://www.wikidata.org/entity/Q4838445,Baby modula-3
+http://www.wikidata.org/entity/Q4866929,Basic4ppc
+http://www.wikidata.org/entity/Q4866971,Basic For Qt
+http://www.wikidata.org/entity/Q4880704,Behavioral Description Language
+http://www.wikidata.org/entity/Q4895846,Bertrand
+http://www.wikidata.org/entity/Q4918681,BitC
+http://www.wikidata.org/entity/Q4927494,BlooP and FlooP
+http://www.wikidata.org/entity/Q4928808,Blue
+http://www.wikidata.org/entity/Q4940926,Bon
+http://www.wikidata.org/entity/Q4943501,Boomerang
+http://www.wikidata.org/entity/Q4974964,Brooks
+http://www.wikidata.org/entity/Q5005842,C*
+http://www.wikidata.org/entity/Q5005846,C++14
+http://www.wikidata.org/entity/Q5008636,CAL Actor Language
+http://www.wikidata.org/entity/Q5008638,CAL
+http://www.wikidata.org/entity/Q5010234,CEEMAC
+http://www.wikidata.org/entity/Q5010978,CGOL
+http://www.wikidata.org/entity/Q5011029,CHAIN
+http://www.wikidata.org/entity/Q5012660,CLACL
+http://www.wikidata.org/entity/Q5012783,CLP(R)
+http://www.wikidata.org/entity/Q5013281,CODE
+http://www.wikidata.org/entity/Q5013384,COMTRAN
+http://www.wikidata.org/entity/Q5013542,COWSEL
+http://www.wikidata.org/entity/Q5014168,CSMP III
+http://www.wikidata.org/entity/Q5014842,CWEB
+http://www.wikidata.org/entity/Q5016025,Caché ObjectScript
+http://www.wikidata.org/entity/Q5031941,Candle
+http://www.wikidata.org/entity/Q5055293,Cayenne
+http://www.wikidata.org/entity/Q5057409,Cel
+http://www.wikidata.org/entity/Q5064549,Cerner CCL
+http://www.wikidata.org/entity/Q5086385,Charm
+http://www.wikidata.org/entity/Q5116543,Church
+http://www.wikidata.org/entity/Q5119046,CiMPLE
+http://www.wikidata.org/entity/Q5119098,Ciao
+http://www.wikidata.org/entity/Q5125133,Claire
+http://www.wikidata.org/entity/Q5141853,Cola
+http://www.wikidata.org/entity/Q5142163,ColdC
+http://www.wikidata.org/entity/Q5151587,Comet
+http://www.wikidata.org/entity/Q5159095,Concurrent Euclid
+http://www.wikidata.org/entity/Q5164373,Constraint Handling Rules
+http://www.wikidata.org/entity/Q5171570,Cornell University Programming Language
+http://www.wikidata.org/entity/Q5190950,Cryptol
+http://www.wikidata.org/entity/Q5197880,Cybil
+http://www.wikidata.org/entity/Q5204273,DAP FORTRAN
+http://www.wikidata.org/entity/Q5204326,DASL
+http://www.wikidata.org/entity/Q5204944,DG/L
+http://www.wikidata.org/entity/Q5205093,DIBOL
+http://www.wikidata.org/entity/Q5206860,DYNAMO
+http://www.wikidata.org/entity/Q5225670,Dartmouth ALGOL 30
+http://www.wikidata.org/entity/Q5264253,Design By Numbers
+http://www.wikidata.org/entity/Q5266268,Deutsch limit
+http://www.wikidata.org/entity/Q5268476,Dexterity programming language
+http://www.wikidata.org/entity/Q5322691,ECL
+http://www.wikidata.org/entity/Q5323601,EMML
+http://www.wikidata.org/entity/Q5327483,Ease
+http://www.wikidata.org/entity/Q5331070,EasyLanguage
+http://www.wikidata.org/entity/Q5365609,Elliott ALGOL
+http://www.wikidata.org/entity/Q5366250,Elm
+http://www.wikidata.org/entity/Q5367900,Eltron Programming Language
+http://www.wikidata.org/entity/Q5370013,Embedded style language
+http://www.wikidata.org/entity/Q5370400,Emerald
+http://www.wikidata.org/entity/Q5380335,Enterprise Mashup Markup Language
+http://www.wikidata.org/entity/Q5382927,Epigram
+http://www.wikidata.org/entity/Q5397186,Escher
+http://www.wikidata.org/entity/Q5405195,EuLisp
+http://www.wikidata.org/entity/Q5406088,Euclid
+http://www.wikidata.org/entity/Q5423569,F*
+http://www.wikidata.org/entity/Q5424451,FARGO
+http://www.wikidata.org/entity/Q5426589,FL
+http://www.wikidata.org/entity/Q5426825,FOCAL-69
+http://www.wikidata.org/entity/Q5426889,FORMAC
+http://www.wikidata.org/entity/Q5426980,FP84
+http://www.wikidata.org/entity/Q5427013,FPr
+http://www.wikidata.org/entity/Q5427374,FX-87
+http://www.wikidata.org/entity/Q5427382,FXML
+http://www.wikidata.org/entity/Q5428331,Face Modeling Language
+http://www.wikidata.org/entity/Q5448405,Filetab
+http://www.wikidata.org/entity/Q5457453,Flapjax
+http://www.wikidata.org/entity/Q5462069,Flow Java
+http://www.wikidata.org/entity/Q5470342,Formula language
+http://www.wikidata.org/entity/Q5501320,Frege
+http://www.wikidata.org/entity/Q5502775,Frenetic
+http://www.wikidata.org/entity/Q5504566,Fril
+http://www.wikidata.org/entity/Q5511064,Fuzzy Control Language
+http://www.wikidata.org/entity/Q5513190,GEORGE
+http://www.wikidata.org/entity/Q5513633,GLOBAL
+http://www.wikidata.org/entity/Q5514027,GNU Radio Companion
+http://www.wikidata.org/entity/Q5514049,GOAL agent programming language
+http://www.wikidata.org/entity/Q5519874,Game Oriented Assembly Lisp
+http://www.wikidata.org/entity/Q5531641,General-purpose declarative language
+http://www.wikidata.org/entity/Q5532427,Generalized Automation Language
+http://www.wikidata.org/entity/Q5555121,GNU forth
+http://www.wikidata.org/entity/Q5572247,Glowe
+http://www.wikidata.org/entity/Q5583799,Google Apps Script
+http://www.wikidata.org/entity/Q5675045,Hartmann pipeline
+http://www.wikidata.org/entity/Q5706200,Helium
+http://www.wikidata.org/entity/Q5765910,Hindawi Programming System
+http://www.wikidata.org/entity/Q5933700,Hugo
+http://www.wikidata.org/entity/Q5940583,Hume
+http://www.wikidata.org/entity/Q5957572,HyperFun
+http://www.wikidata.org/entity/Q5970871,IFTTT
+http://www.wikidata.org/entity/Q5972087,IMP
+http://www.wikidata.org/entity/Q5973848,ISETLW
+http://www.wikidata.org/entity/Q5986860,Id
+http://www.wikidata.org/entity/Q6032289,Inger
+http://www.wikidata.org/entity/Q6043451,Intel Concurrent Collections
+http://www.wikidata.org/entity/Q6072267,IronLisp
+http://www.wikidata.org/entity/Q6107617,JADE
+http://www.wikidata.org/entity/Q6108047,JEAN
+http://www.wikidata.org/entity/Q6155940,Janus
+http://www.wikidata.org/entity/Q6268983,Join-calculus
+http://www.wikidata.org/entity/Q6268991,Join Java
+http://www.wikidata.org/entity/Q6294583,Joule
+http://www.wikidata.org/entity/Q6297370,Joyce
+http://www.wikidata.org/entity/Q6331122,KISS
+http://www.wikidata.org/entity/Q6332350,KL0
+http://www.wikidata.org/entity/Q6334120,KM programming language
+http://www.wikidata.org/entity/Q6335049,KOMPILER
+http://www.wikidata.org/entity/Q6351981,Kaleidoscope
+http://www.wikidata.org/entity/Q6410762,Kinetic Rule Language
+http://www.wikidata.org/entity/Q6420637,Klerer-May System
+http://www.wikidata.org/entity/Q6426496,Kojo
+http://www.wikidata.org/entity/Q6439704,Krypton
+http://www.wikidata.org/entity/Q6451756,Kyma
+http://www.wikidata.org/entity/Q6457572,LEAP
+http://www.wikidata.org/entity/Q6458817,LIS
+http://www.wikidata.org/entity/Q6459541,LOOM
+http://www.wikidata.org/entity/Q6460570,L Sharp
+http://www.wikidata.org/entity/Q6460608,L (programming language)
+http://www.wikidata.org/entity/Q6472569,Lagoona
+http://www.wikidata.org/entity/Q6502171,Lava
+http://www.wikidata.org/entity/Q6506135,Lazy ML
+http://www.wikidata.org/entity/Q6548438,Lily
+http://www.wikidata.org/entity/Q6549809,Limnor
+http://www.wikidata.org/entity/Q6554717,Linoleum
+http://www.wikidata.org/entity/Q6559085,LispWorks
+http://www.wikidata.org/entity/Q6647840,Lithe
+http://www.wikidata.org/entity/Q6709560,Lynx
+http://www.wikidata.org/entity/Q6715155,MDL
+http://www.wikidata.org/entity/Q6716698,MLisp
+http://www.wikidata.org/entity/Q6717087,MOO
+http://www.wikidata.org/entity/Q6717920,MST Workshop
+http://www.wikidata.org/entity/Q6725127,MacroML
+http://www.wikidata.org/entity/Q6822228,Met English
+http://www.wikidata.org/entity/Q6822280,MetaL
+http://www.wikidata.org/entity/Q6825695,MexScript
+http://www.wikidata.org/entity/Q6931851,Mudlle
+http://www.wikidata.org/entity/Q6953575,NESL
+http://www.wikidata.org/entity/Q6953629,NEWP
+http://www.wikidata.org/entity/Q6953955,NGL
+http://www.wikidata.org/entity/Q6954329,NIL
+http://www.wikidata.org/entity/Q6955040,NPL
+http://www.wikidata.org/entity/Q6964898,Napier88
+http://www.wikidata.org/entity/Q6998127,Net.Data
+http://www.wikidata.org/entity/Q7050550,Nord Programming Language
+http://www.wikidata.org/entity/Q7067717,Nu
+http://www.wikidata.org/entity/Q7072276,o:XML
+http://www.wikidata.org/entity/Q7072318,OBJ2
+http://www.wikidata.org/entity/Q7072320,OBJ3
+http://www.wikidata.org/entity/Q7072323,OBJ
+http://www.wikidata.org/entity/Q7072853,OPS5
+http://www.wikidata.org/entity/Q7074990,Obix (programming language)
+http://www.wikidata.org/entity/Q7074992,ObjVlisp
+http://www.wikidata.org/entity/Q7075040,Object Oberon
+http://www.wikidata.org/entity/Q7075164,Obliq
+http://www.wikidata.org/entity/Q7075672,Occam-π
+http://www.wikidata.org/entity/Q7090311,OmniMark
+http://www.wikidata.org/entity/Q7095186,Onyx
+http://www.wikidata.org/entity/Q7095233,Ooc
+http://www.wikidata.org/entity/Q7100142,Orc
+http://www.wikidata.org/entity/Q7105278,Orwell
+http://www.wikidata.org/entity/Q7118490,PCASTL
+http://www.wikidata.org/entity/Q7119550,PL-11
+http://www.wikidata.org/entity/Q7119554,PL/C
+http://www.wikidata.org/entity/Q7119556,PL/P
+http://www.wikidata.org/entity/Q7119559,PL360
+http://www.wikidata.org/entity/Q7119581,PLANC
+http://www.wikidata.org/entity/Q7119633,PLEXIL
+http://www.wikidata.org/entity/Q7119636,PLEX
+http://www.wikidata.org/entity/Q7120003,POP-2
+http://www.wikidata.org/entity/Q7129538,Pan
+http://www.wikidata.org/entity/Q7131637,Pantalk
+http://www.wikidata.org/entity/Q7133637,ParaSail
+http://www.wikidata.org/entity/Q7139110,Parlog
+http://www.wikidata.org/entity/Q7179822,Pforth
+http://www.wikidata.org/entity/Q7191089,Pict
+http://www.wikidata.org/entity/Q15952161,C++17
+http://www.wikidata.org/entity/Q15971618,Hack
+http://www.wikidata.org/entity/Q16162582,Q16162582
+http://www.wikidata.org/entity/Q16687546,Q16687546
+http://www.wikidata.org/entity/Q16913488,Algek
+http://www.wikidata.org/entity/Q16976264,Ox
+http://www.wikidata.org/entity/Q16989736,Hermes
+http://www.wikidata.org/entity/Q17092903,Jolie
+http://www.wikidata.org/entity/Q17118377,Swift
+http://www.wikidata.org/entity/Q17143156,P*
+http://www.wikidata.org/entity/Q18346546,PlantUML
+http://www.wikidata.org/entity/Q18965699,Cilk++
+http://www.wikidata.org/entity/Q19604141,Blub
+http://www.wikidata.org/entity/Q20080327,Nim
+http://www.wikidata.org/entity/Q20870787,Octave
+http://www.wikidata.org/entity/Q20870804,RPython
+http://www.wikidata.org/entity/Q20888355,Arendelle (programming language)
+http://www.wikidata.org/entity/Q21055605,Pixie
+http://www.wikidata.org/entity/Q21056537,Q21056537
+http://www.wikidata.org/entity/Q21577202,Gambas
+http://www.wikidata.org/entity/Q21921428,Crystal (programming language)
+http://www.wikidata.org/entity/Q22443688,Karel++
+http://www.wikidata.org/entity/Q22661291,Hy
+http://www.wikidata.org/entity/Q22695923,PL/X
+http://www.wikidata.org/entity/Q22696099,Programming Language for Distributed Systems
+http://www.wikidata.org/entity/Q22709094,HolyC
+http://www.wikidata.org/entity/Q22981701,Q22981701
+http://www.wikidata.org/entity/Q23378244,PL/8
+http://www.wikidata.org/entity/Q25339766,STELLA
+http://www.wikidata.org/entity/Q25394435,Q25394435
+http://www.wikidata.org/entity/Q25395189,LTR
+http://www.wikidata.org/entity/Q26898104,EXAPT
+http://www.wikidata.org/entity/Q7197271,Pipeline Pilot
+http://www.wikidata.org/entity/Q7197427,Plus
+http://www.wikidata.org/entity/Q7200587,Plaid
+http://www.wikidata.org/entity/Q7226597,Polymorphic Programming Language
+http://www.wikidata.org/entity/Q7231352,Portable Standard Lisp
+http://www.wikidata.org/entity/Q7236198,PowerHouse
+http://www.wikidata.org/entity/Q7246691,ProSet
+http://www.wikidata.org/entity/Q7248259,Profile Scripting Language
+http://www.wikidata.org/entity/Q7248448,Programmable Macro Language
+http://www.wikidata.org/entity/Q7248484,Programming Computable Functions
+http://www.wikidata.org/entity/Q7248516,Prograph
+http://www.wikidata.org/entity/Q7251525,Protel
+http://www.wikidata.org/entity/Q7253904,Psake
+http://www.wikidata.org/entity/Q7261054,Pure
+http://www.wikidata.org/entity/Q7262800,PyLinda
+http://www.wikidata.org/entity/Q7265605,QUIKTRAN
+http://www.wikidata.org/entity/Q7265606,QUILL
+http://www.wikidata.org/entity/Q7265635,Q
+http://www.wikidata.org/entity/Q7265638,Q
+http://www.wikidata.org/entity/Q7265978,Qalb
+http://www.wikidata.org/entity/Q7269167,Quark Framework
+http://www.wikidata.org/entity/Q7273242,R++
+http://www.wikidata.org/entity/Q7277404,ROOP
+http://www.wikidata.org/entity/Q7277859,RTML
+http://www.wikidata.org/entity/Q7294734,RascalMPL
+http://www.wikidata.org/entity/Q7301377,Realtime Programming Language
+http://www.wikidata.org/entity/Q7372499,Roy
+http://www.wikidata.org/entity/Q7388288,S3
+http://www.wikidata.org/entity/Q7388609,SALSA
+http://www.wikidata.org/entity/Q7388824,SAS language
+http://www.wikidata.org/entity/Q7390335,SIGNAL
+http://www.wikidata.org/entity/Q7390483,SISAL
+http://www.wikidata.org/entity/Q7390955,SLIP
+http://www.wikidata.org/entity/Q7391044,SMALL
+http://www.wikidata.org/entity/Q7395256,SYMPL
+http://www.wikidata.org/entity/Q7418253,Scientific Vector Language
+http://www.wikidata.org/entity/Q7418375,Shift Script
+http://www.wikidata.org/entity/Q7419063,MX Language
+http://www.wikidata.org/entity/Q7420937,Sense
+http://www.wikidata.org/entity/Q7421118,Stagecast Creator
+http://www.wikidata.org/entity/Q7423166,Snostorm
+http://www.wikidata.org/entity/Q7424035,Stratego/XT
+http://www.wikidata.org/entity/Q7424115,Tom (pattern matching language)
+http://www.wikidata.org/entity/Q7424380,Secure Operations Language
+http://www.wikidata.org/entity/Q7427136,Cecil (programming language)
+http://www.wikidata.org/entity/Q7427540,Seph (programming language)
+http://www.wikidata.org/entity/Q7452449,SequenceL
+http://www.wikidata.org/entity/Q7474729,FACT
+http://www.wikidata.org/entity/Q7474757,FLACC
+http://www.wikidata.org/entity/Q7475002,Jako
+http://www.wikidata.org/entity/Q7475278,Text Executive Programming Language
+http://www.wikidata.org/entity/Q7475291,TNSDL
+http://www.wikidata.org/entity/Q7475315,WATFIV
+http://www.wikidata.org/entity/Q7475348,ZOPL
+http://www.wikidata.org/entity/Q7475367,Zeno
+http://www.wikidata.org/entity/Q7475378,Yoix
+http://www.wikidata.org/entity/Q7475390,XPL0
+http://www.wikidata.org/entity/Q7475416,Speedcoding
+http://www.wikidata.org/entity/Q7475431,SuperPascal
+http://www.wikidata.org/entity/Q7475887,Subtext
+http://www.wikidata.org/entity/Q7475904,UNITY
+http://www.wikidata.org/entity/Q7494104,Shen
+http://www.wikidata.org/entity/Q7578596,Split-C
+http://www.wikidata.org/entity/Q7585520,urbiscript
+http://www.wikidata.org/entity/Q7590327,Timber
+http://www.wikidata.org/entity/Q7590386,TXL
+http://www.wikidata.org/entity/Q7621223,Strand
+http://www.wikidata.org/entity/Q7665580,Turing+
+http://www.wikidata.org/entity/Q7665653,XC Programming Language
+http://www.wikidata.org/entity/Q7665689,XMTC
+http://www.wikidata.org/entity/Q7666857,Twelf
+http://www.wikidata.org/entity/Q7669188,TACPOL
+http://www.wikidata.org/entity/Q7671308,TREE-META
+http://www.wikidata.org/entity/Q7672623,T
+http://www.wikidata.org/entity/Q7679606,BuddyScript
+http://www.wikidata.org/entity/Q7687649,PTQL
+http://www.wikidata.org/entity/Q7688144,Subset-equational language
+http://www.wikidata.org/entity/Q8563758,Flex
+http://www.wikidata.org/entity/Q10374848,Q10374848
+http://www.wikidata.org/entity/Q11038887,Q11038887
+http://www.wikidata.org/entity/Q11235870,Dolittle
+http://www.wikidata.org/entity/Q11605739,Blitz Basic
+http://www.wikidata.org/entity/Q11605785,Blitz2D
+http://www.wikidata.org/entity/Q11605797,Blitz3D
+http://www.wikidata.org/entity/Q11605804,BlitzPlus
+http://www.wikidata.org/entity/Q11605828,BlitzMax
+http://www.wikidata.org/entity/Q11606158,AmiBlitz
+http://www.wikidata.org/entity/Q11762407,Q11762407
+http://www.wikidata.org/entity/Q11985939,Q11985939
+http://www.wikidata.org/entity/Q12032760,Q12032760
+http://www.wikidata.org/entity/Q12044793,Q12044793
+http://www.wikidata.org/entity/Q12050058,Q12050058
+http://www.wikidata.org/entity/Q12590841,Dao
+http://www.wikidata.org/entity/Q13380670,Q13380670
+http://www.wikidata.org/entity/Q13380671,Q13380671
+http://www.wikidata.org/entity/Q15241057,Wolfram
+http://www.wikidata.org/entity/Q15408477,Idris (programming language)
+http://www.wikidata.org/entity/Q15620505,Q15620505
+http://www.wikidata.org/entity/Q15712810,data-entry language
+http://www.wikidata.org/entity/Q15833022,Luna
