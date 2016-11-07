@@ -1,0 +1,1 @@
+This scripts will help to analyse age of math persons
