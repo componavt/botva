@@ -25,3 +25,16 @@ python pwb.py listpages -lang:en -catr:Programming_languages -limit:7
 2939 pages, faile, list is very noisy
 
 + filter by Wikidata: instance of=programming language
+
+
+----------- List of pages in Category:Russian mathematicians (Категория:Математики России) -----
+
+python pwb.py listpages -lang:ru -catr:Математики_Российской_империи -limit:7
+python pwb.py listpages -lang:ru -catr:Математики_СССР -limit:7
+python pwb.py listpages -lang:ru -catr:Математики_России -limit:7
+
+let's create three lists in text files
+cd ruwiki
+python pwb.py listpages -lang:ru -catr:Математики_Российской_империи -limit:7
+python pwb.py listpages -lang:ru -catr:Математики_СССР -limit:7
+python pwb.py listpages -lang:ru -catr:Математики_России -limit:7
