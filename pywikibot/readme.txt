@@ -35,6 +35,6 @@ python pwb.py listpages -lang:ru -catr:Математики_России -limit:
 
 let's create three lists in text files
 cd ruwiki
-python pwb.py listpages -lang:ru -catr:Математики_Российской_империи -limit:7
+python pwb.py listpages -lang:ru -catr:Математики_Российской_империи -limit:7 > ruwiki_Imperial_Russian_mathematicians.txt
 python pwb.py listpages -lang:ru -catr:Математики_СССР -limit:7
 python pwb.py listpages -lang:ru -catr:Математики_России -limit:7
