@@ -20,7 +20,7 @@ repo = site.data_repository()
 
 query = 'SELECT ?item ?population WHERE{ ?item wdt:P31 wd:Q515 . ?item wdt:P1082 ?population . FILTER (?population > 100000) MINUS { ?item wdt:P31 wd:Q1549591 }} ORDER BY DESC(?population)'
 
-generator = pagegenerators.WikidataSPARQLPageGenerator(query, site=site)
+#generator = pagegenerators.WikidataSPARQLPageGenerator(query, site=site)
 
 
 

@@ -1,3 +1,5 @@
 /pywikibot/core_stable
+/pywikibot/core
+/pywikibot/logs
 *.bak
 
