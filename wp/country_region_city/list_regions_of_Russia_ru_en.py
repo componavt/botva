@@ -4,7 +4,6 @@
 # See https://en.wikiversity.org/wiki/Research_in_programming_Wikidata/Subjects_of_Russia
 
 import pywikibot
-
 from pywikibot import pagegenerators
 
 # List of `instances of` "subjects of Russia" 

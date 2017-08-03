@@ -2,4 +2,5 @@
 /pywikibot/core
 /pywikibot/logs
 *.bak
+*.swp
 
