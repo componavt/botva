@@ -28,7 +28,7 @@ generator = pagegenerators.WikidataSPARQLPageGenerator(query, site=wikidata_site
 
 repo = wikidata_site.data_repository()
 
-line = 'Region ID | Wikidata country ID | Region name in English | in Russian'
+line = '# Region ID | Wikidata country ID | Region name in English | in Russian'
 print line
 
 wd_Russia_id = 159

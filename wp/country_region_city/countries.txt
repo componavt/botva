@@ -1,0 +1,206 @@
+# Wikidata_country_ID | Country name in English | in Russian
+805 | Yemen | Йемен
+804 | Panama | Панама
+801 | Israel | Израиль
+800 | Costa Rica | Коста-Рика
+709 | Marshall Islands | Маршалловы Острова
+702 | Federated States of Micronesia | Федеративные Штаты Микронезии
+419 | Peru | Перу
+668 | India | Индия
+1019 | Madagascar | Мадагаскар
+664 | New Zealand | Новая Зеландия
+414 | Argentina | Аргентина
+142 | France | Франция
+55 | Netherlands | Нидерланды
+145 | United Kingdom | Великобритания
+781 | Antigua and Barbuda | Антигуа и Барбуда
+148 | China | Китайская Народная Республика
+783 | Honduras | Гондурас
+784 | Dominica | Доминика
+786 | Dominican Republic | Доминиканская Республика
+924 | Tanzania | Танзания
+1011 | Cape Verde | Кабо-Верде
+833 | Malaysia | Малайзия
+711 | Mongolia | Монголия
+710 | Kiribati | Кирибати
+836 | Myanmar | Мьянма
+837 | Nepal | Непал
+183 | Germany | Германия
+408 | Australia | Австралия
+252 | Indonesia | Индонезия
+399 | Armenia | Армения
+398 | Bahrain | Бахрейн
+403 | Serbia | Сербия
+907112 | Transnistria | Приднестровская Молдавская Республика
+657 | Chad | Чад
+258 | South Africa | Южно-Африканская Республика
+45 | Portugal | Португалия
+159 | Russia | Россия
+43 | Turkey | Турция
+40 | Austria | Австрия
+41 | Greece | Греция
+155 | Brazil | Бразилия
+792 | El Salvador | Сальвадор
+790 | Haiti | Республика Гаити
+796 | Iraq | Ирак
+34754 | Somaliland | Сомалиленд
+794 | Iran | Иран
+954 | Zimbabwe | Зимбабве
+889 | Afghanistan | Афганистан
+884 | South Korea | Республика Корея
+958 | South Sudan | Южный Судан
+881 | Vietnam | Вьетнам
+986 | Eritrea | Эритрея
+826 | Maldives | Мальдивы
+822 | Lebanon | Ливан
+241 | Cuba | Куба
+242 | Belize | Белиз
+244 | Barbados | Барбадос
+983 | Equatorial Guinea | Экваториальная Гвинея
+23681 | Northern Cyprus | Турецкая Республика Северного Кипра
+33 | Finland | Финляндия
+32 | Luxembourg | Люксембург
+31 | Belgium | Бельгия
+30 | United States | Соединённые Штаты Америки
+37 | Lithuania | Литва
+36 | Poland | Польша
+35 | Denmark | Дания
+34 | Sweden | Швеция
+928 | Philippines | Филиппины
+929 | Central African Republic | Центральноафриканская Республика
+39 | Switzerland | Швейцария
+38 | Italy | Италия
+858 | Syria | Сирия
+423 | North Korea | Корейская Народно-Демократическая Республика
+953 | Zambia | Замбия
+851 | Saudi Arabia | Саудовская Аравия
+733 | Paraguay | Парагвай
+29999 | Kingdom of the Netherlands | Королевство Нидерландов
+854 | Sri Lanka | Шри-Ланка
+734 | Guyana | Гайана
+819 | Laos | Лаос
+40362 | Sahrawi Arab Democratic Republic | Сахарская Арабская Демократическая Республика
+730 | Suriname | Суринам
+1013 | Lesotho | Лесото
+235 | Monaco | Монако
+236 | Montenegro | Черногория
+237 | Vatican City | Ватикан
+230 | Georgia (country) | Грузия
+232 | Kazakhstan | Казахстан
+233 | Malta | Мальта
+334 | Singapore | Сингапур
+238 | San Marino | Сан-Марино
+20 | Norway | Норвегия
+1045 | Somalia | Сомали
+1044 | Sierra Leone | Сьерра-Леоне
+1042 | Seychelles | Сейшельские Острова
+1041 | Senegal | Сенегал
+27 | Republic of Ireland | Ирландия
+28 | Hungary | Венгрия
+29 | Spain | Испания
+1049 | Sudan | Судан
+1025 | Mauritania | Мавритания
+1027 | Mauritius | Маврикий
+1020 | Malawi | Малави
+189 | Iceland | Исландия
+843 | Pakistan | Пакистан
+842 | Oman | Оман
+184 | Belarus | Белоруссия
+1029 | Mozambique | Мозамбик
+846 | Qatar | Катар
+736 | Ecuador | Эквадор
+265 | Uzbekistan | Узбекистан
+347 | Liechtenstein | Лихтенштейн
+227 | Azerbaijan | Азербайджан
+225 | Bosnia and Herzegovina | Босния и Герцеговина
+224 | Croatia | Хорватия
+222 | Albania | Албания
+221 | Republic of Macedonia | Республика Македония
+96 | Mexico | Мексика
+229 | Cyprus | Республика Кипр
+228 | Andorra | Андорра
+1050 | Swaziland | Свазиленд
+17 | Japan | Япония
+16 | Canada | Канада
+424 | Cambodia | Камбоджа
+1028 | Morocco | Марокко
+902 | Bangladesh | Бангладеш
+25230 | Bailiwick of Guernsey | Гернси
+1036 | Uganda | Уганда
+1037 | Rwanda | Руанда
+1008 | Ivory Coast | Кот-д’Ивуар
+1032 | Niger | Нигер
+262 | Algeria | Алжир
+1030 | Namibia | Намибия
+191 | Estonia | Эстония
+965 | Burkina Faso | Буркина-Фасо
+717 | Venezuela | Венесуэла
+967 | Burundi | Бурунди
+962 | Benin | Бенин
+963 | Botswana | Ботсвана
+697 | Nauru | Науру
+298 | Chile | Чили
+695 | Palau | Палау
+115 | Ethiopia | Эфиопия
+114 | Kenya | Кения
+117 | Ghana | Гана
+691 | Papua New Guinea | Папуа — Новая Гвинея
+757 | Saint Vincent and the Grenadines | Сент-Винсент и Гренадины
+754 | Trinidad and Tobago | Тринидад и Тобаго
+750 | Bolivia | Боливия
+212 | Ukraine | Украина
+213 | Czech Republic | Чехия
+211 | Latvia | Латвия
+217 | Moldova | Молдавия
+214 | Slovakia | Словакия
+215 | Slovenia | Словения
+218 | Romania | Румыния
+219 | Bulgaria | Болгария
+912 | Mali | Мали
+917 | Bhutan | Бутан
+916 | Angola | Ангола
+1000 | Gabon | Габон
+1007 | Guinea-Bissau | Гвинея-Бисау
+1006 | Guinea | Гвинея
+1005 | The Gambia | Гамбия
+712 | Fiji | Фиджи
+977 | Djibouti | Джибути
+1009 | Cameroon | Камерун
+974 | Democratic Republic of the Congo | Демократическая Республика Конго
+971 | Republic of the Congo | Республика Конго
+970 | Comoros | Коморы
+683 | Samoa | Самоа
+769 | Grenada | Гренада
+685 | Solomon Islands | Соломоновы Острова
+686 | Vanuatu | Вануату
+763 | Saint Kitts and Nevis | Сент-Китс и Невис
+760 | Saint Lucia | Сент-Люсия
+766 | Jamaica | Ямайка
+9676 | Isle of Man | Остров Мэн
+1033 | Nigeria | Нигерия
+874 | Turkmenistan | Туркмения
+6250 | Western Sahara | Западная Сахара
+219060 | State of Palestine | Государство Палестина
+79 | Egypt | Египет
+77 | Uruguay | Уругвай
+574 | East Timor | Восточный Тимор
+878 | United Arab Emirates | Объединённые Арабские Эмираты
+774 | Guatemala | Гватемала
+948 | Tunisia | Тунис
+817 | Kuwait | Кувейт
+810 | Jordan | Иордания
+811 | Nicaragua | Никарагуа
+813 | Kyrgyzstan | Киргизия
+1014 | Liberia | Либерия
+1016 | Libya | Ливия
+1246 | Kosovo | Республика Косово
+739 | Colombia | Колумбия
+778 | The Bahamas | Багамские Острова
+945 | Togo | Того
+678 | Tonga | Тонга
+1039 | São Tomé and Príncipe | Сан-Томе и Принсипи
+672 | Tuvalu | Тувалу
+921 | Brunei | Бруней
+863 | Tajikistan | Таджикистан
+865 | Taiwan | Китайская Республика
+869 | Thailand | Таиланд

@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `countries` (
 ENGINE = InnoDB;
 """
 
-line = 'Wikidata_country_ID | Country name in English | in Russian'
+line = '# Wikidata_country_ID | Country name in English | in Russian'
 print line
 
 file_out = open('countries.txt', 'w')
@@ -51,7 +51,7 @@ for item in generator:
     name_en = item_dict["sitelinks"]["enwiki"]
     name_ru = item_dict["sitelinks"]["ruwiki"]
     
-    line = u'Q{0} | {1} | {2}'.format(wikidata_id, name_en, name_ru)
+    line = u'{0} | {1} | {2}'.format(wikidata_id, name_en, name_ru)
     print line
     file_out.write( line.encode('utf-8') + "\n" )
                         # wikidata_id

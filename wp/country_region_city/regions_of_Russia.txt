@@ -1,0 +1,83 @@
+# Region ID | Wikidata country ID | Region name in English | in Russian
+2240 | 159 | Novgorod Oblast | Новгородская область
+5334 | 159 | Saratov Oblast | Саратовская область
+2246 | 159 | Nizhny Novgorod Oblast | Нижегородская область
+1697 | 159 | Moscow Oblast | Московская область
+3550 | 159 | Tambov Oblast | Тамбовская область
+7971 | 159 | Magadan Oblast | Магаданская область
+5338 | 159 | Orenburg Oblast | Оренбургская область
+1759 | 159 | Murmansk Oblast | Мурманская область
+5219 | 159 | Ingushetia | Ингушетия
+2164 | 159 | Nenets Autonomous Okrug | Ненецкий автономный округ
+5545 | 159 | Penza Oblast | Пензенская область
+5851 | 159 | Novosibirsk Oblast | Новосибирская область
+5835 | 159 | Omsk Oblast | Омская область
+5328 | 159 | Karachay-Cherkessia | Карачаево-Черкесия
+5710 | 159 | Bashkortostan | Башкортостан
+2347 | 159 | Smolensk Oblast | Смоленская область
+7730 | 159 | Jewish Autonomous Oblast | Еврейская автономная область
+5340 | 159 | Mordovia | Мордовия
+5387 | 159 | Kirov Oblast | Кировская область
+6886 | 159 | Amur Oblast | Амурская область
+5741 | 159 | Kurgan Oblast | Курганская область
+4341 | 159 | Primorsky Krai | Приморский край
+6076 | 159 | Kemerovo Oblast | Кемеровская область
+5942 | 159 | Altai Krai | Алтайский край
+3573 | 159 | Rostov Oblast | Ростовская область
+3953 | 159 | Kalmykia | Калмыкия
+6320 | 159 | Khanty-Mansi Autonomous Okrug | Ханты-Мансийский автономный округ — Югра
+5634 | 159 | Ulyanovsk Oblast | Ульяновская область
+5267 | 159 | Kabardino-Balkaria | Кабардино-Балкария
+6585 | 159 | Irkutsk Oblast | Иркутская область
+3734 | 159 | Adygea | Адыгея
+2810 | 159 | Bryansk Oblast | Брянская область
+1749 | 159 | Kaliningrad Oblast | Калининградская область
+6543 | 159 | Khakassia | Хакасия
+2191 | 159 | Leningrad Oblast | Ленинградская область
+6838 | 159 | Zabaykalsky Krai | Забайкальский край
+2073 | 159 | Komi Republic | Республика Коми
+3329 | 159 | Belgorod Oblast | Белгородская область
+6563 | 159 | Krasnoyarsk Krai | Красноярский край
+15966495 | 159 | Republic of Crimea | Республика Крым
+5187 | 159 | Chechnya | Чечня
+5207 | 159 | Stavropol Krai | Ставропольский край
+5237 | 159 | North Ossetia-Alania | Северная Осетия
+7984 | 159 | Chukotka Autonomous Okrug | Чукотский автономный округ
+7948 | 159 | Kamchatka Krai | Камчатский край
+6605 | 159 | Sakha Republic | Якутия
+2015 | 159 | Vologda Oblast | Вологодская область
+2292 | 159 | Tver Oblast | Тверская область
+3447 | 159 | Voronezh Oblast | Воронежская область
+3819 | 159 | Volgograd Oblast | Волгоградская область
+960 | 159 | Tuva | Тыва
+2753 | 159 | Ryazan Oblast | Рязанская область
+2448 | 159 | Yaroslavl Oblast | Ярославская область
+2654 | 159 | Ivanovo Oblast | Ивановская область
+1727 | 159 | Samara Oblast | Самарская область
+5884 | 159 | Tomsk Oblast | Томская область
+1914 | 159 | Republic of Karelia | Республика Карелия
+5971 | 159 | Altai Republic | Республика Алтай
+1875 | 159 | Arkhangelsk Oblast | Архангельская область
+2792 | 159 | Tula Oblast | Тульская область
+2218 | 159 | Pskov Oblast | Псковская область
+6809 | 159 | Buryatia | Бурятия
+3129 | 159 | Oryol Oblast | Орловская область
+5446 | 159 | Mari El | Марий Эл
+2596 | 159 | Kostroma Oblast | Костромская область
+5462 | 159 | Sverdlovsk Oblast | Свердловская область
+7788 | 159 | Khabarovsk Krai | Хабаровский край
+3178 | 159 | Kursk Oblast | Курская область
+3941 | 159 | Astrakhan Oblast | Астраханская область
+5481 | 159 | Tatarstan | Татарстан
+5714 | 159 | Chelyabinsk Oblast | Челябинская область
+5466 | 159 | Chuvashia | Чувашия
+5400 | 159 | Perm Krai | Пермский край
+6407 | 159 | Yamalo-Nenets Autonomous Okrug | Ямало-Ненецкий автономный округ
+2702 | 159 | Vladimir Oblast | Владимирская область
+5118 | 159 | Dagestan | Дагестан
+5824 | 159 | Tyumen Oblast | Тюменская область
+5422 | 159 | Udmurtia | Удмуртия
+2842 | 159 | Kaluga Oblast | Калужская область
+3680 | 159 | Krasnodar Krai | Краснодарский край
+7797 | 159 | Sakhalin Oblast | Сахалинская область
+3510 | 159 | Lipetsk Oblast | Липецкая область
